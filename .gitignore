@@ -1,6 +1,8 @@
 ﻿# Pastas temporarias e cache
 scratch/
 *.tmp
+*.bak
+*.bak_*
 
 # Arquivos de sistema
 Thumbs.db
